@@ -79,10 +79,4 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-**License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Contact**
-
-For any inquiries, please reach out to [your-email@example.com].
